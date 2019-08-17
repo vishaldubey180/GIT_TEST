@@ -6,3 +6,6 @@ def sqr(num):
 if __name__ == "__main__":
     print(addtwo(8))
     print(sqr(7))
+  
+
+print("hello malkit")
